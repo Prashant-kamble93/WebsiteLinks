@@ -1,4 +1,4 @@
-Java compiler=[Link Text]https://www.tutorialspoint.com/compile_java_online.php
+Java compiler=https://www.tutorialspoint.com/compile_java_online.php
 ------------------------------------------------------------------------------------------------------
 Talend=https://www.talendbyexample.com/talend-tlogrow-component.html
 ------------------------------------------------------------------------------------------------------

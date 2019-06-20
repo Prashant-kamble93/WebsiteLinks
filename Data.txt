@@ -1,4 +1,4 @@
-Java compiler=https://www.tutorialspoint.com/compile_java_online.php
+Java compiler=[Link Text](https://www.tutorialspoint.com/compile_java_online.php)
 ------------------------------------------------------------------------------------------------------
 Talend=https://www.talendbyexample.com/talend-tlogrow-component.html
 ------------------------------------------------------------------------------------------------------
@@ -1047,7 +1047,7 @@ http://sqlserverplanet.com/dba/using-sp_who
 sp_who2(SQL Server)=>
 http://sqlserverplanet.com/dba/using-sp_who2
 
-SQL Server SPID – What is it?(SQL Server)=>
+SQL Server SPID Â– What is it?(SQL Server)=>
 http://sqlserverplanet.com/dba/spid-what-is-it
 
 Troubleshooting SQL Server Slowness(SQL Server)=>
@@ -1368,10 +1368,10 @@ https://www.ibm.com/support/knowledgecenter/en/SSEP7J_11.0.0/com.ibm.swg.ba.cogn
 
 https://www.jamesserra.com/archive/2011/11/role-playing-dimensions/
 
-SSIS Event Handler Variables – Propagate(SSIS)=>
+SSIS Event Handler Variables Â– Propagate(SSIS)=>
 https://simonworth.wordpress.com/2009/11/11/ssis-event-handler-variables-propagate/\
 
-SSIS – Stopping an Error from Propagating to its Parent (Enabling an SSIS Package to continue when an error happens)=>
+SSIS Â– Stopping an Error from Propagating to its Parent (Enabling an SSIS Package to continue when an error happens)=>
 https://www.fourmoo.com/2013/06/27/ssis-stopping-an-error-from-propagating-to-its-parent-enabling-an-ssis-package-to-continue-when-an-error-happens/
 ----------------------------------------------------------------------------------------------------------
 (01-10-2018)
@@ -1443,7 +1443,7 @@ http://generatedata.com/
 ----------------------------------------------------------------------------------------------------------
 (16-10-2018)
 
-Late-Binding™ Data Warehouse(BI)=>
+Late-BindingÂ™ Data Warehouse(BI)=>
 https://www.healthcatalyst.com/late-binding-data-warehouse/
 
 ETL vs ELT(BI)=>
@@ -1466,7 +1466,7 @@ https://www.mssqltips.com/sqlservertip/5431/surrogate-key-vs-natural-key-differe
 ----------------------------------------------------------------------------------------------------------
 (31-10-2018)
 
-SQL SERVER – What is SSAS Tabular Data Model and Why to Use it=>
+SQL SERVER Â– What is SSAS Tabular Data Model and Why to Use it=>
 https://blog.sqlauthority.com/2014/04/08/sql-server-what-is-ssas-tabular-data-model-and-why-to-use-it/
 ----------------------------------------------------------------------------------------------------------
 (01-11-2018)
@@ -1630,7 +1630,7 @@ https://www.python-course.eu/recursive_functions.php
 Try and Except in Python=>
 https://www.pythonforbeginners.com/error-handling/python-try-and-except
 
-Python’s range() Function=>
+PythonÂ’s range() Function=>
 https://www.pythoncentral.io/pythons-range-function-explained/
 ----------------------------------------------------------------------------------------------------------
 (03-01-2019)
@@ -1690,10 +1690,10 @@ https://portworx.com/reduce-cassandra-recovery-time/
 Cassandra Collections Tutorial - SET, LIST & MAP=>
 https://www.guru99.com/cassandra-collections-tutorial-set-list-map.html
 
-9 Cassandra Shell Commands – You Must Know=>
+9 Cassandra Shell Commands Â– You Must Know=>
 https://data-flair.training/blogs/cassandra-shell-commands/
 
-Apache Cassandra Troubleshooting – 6 Basic Steps to Solve=>
+Apache Cassandra Troubleshooting Â– 6 Basic Steps to Solve=>
 https://data-flair.training/blogs/cassandra-troubleshooting/
 
 Cassandra - Achieving high availability while maintaining consistency=>
@@ -1890,7 +1890,7 @@ https://codingsight.com/using-dateadd-datediff-and-datepart-t-sql-functions-in-s
 How can I select the first day of a month in SQL?
 https://stackoverflow.com/questions/1520789/how-can-i-select-the-first-day-of-a-month-in-sql
 
-SQL SERVER – Query to Find First and Last Day of Current Month – Date Function=>
+SQL SERVER Â– Query to Find First and Last Day of Current Month Â– Date Function=>
 https://blog.sqlauthority.com/2007/05/13/sql-server-query-to-find-first-and-last-day-of-current-month/
 
 SQL Query to find the last day of the month=>
